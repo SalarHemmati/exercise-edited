@@ -1,0 +1,6 @@
+{
+	"appId": "com.salar.app",
+	"appName": "Vue App",
+	"webDir": "public",
+	"bundledWebRuntime": false
+}
